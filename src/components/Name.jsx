@@ -2,7 +2,7 @@ const Name = (props) => {
   return (
     <div
       className=" text-center p-5 text-white  rounded-2xl flex flex-col max-w-sm
-    5 items-center justify-between gap-3 h-125 border border-white m-3"
+    5 items-center justify-between gap-3 h-125  border border-white m-3"
     >
       <img
         src="https://plus.unsplash.com/premium_photo-1697753121669-fe1307d66b7d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDI1fHRvd0paRnNrcEdnfHxlbnwwfHx8fHw%3D"
